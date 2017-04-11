@@ -14,5 +14,8 @@
 ## Pour le dev : 
 + Installation de phpStorm 
     + Serveur licence pour 2017 : http://kadara.ru:1017
+    + Configuration du debugger : 
+        + Installer l'extension xdebug Helper de Chrome
+        + Indiquer l'adresse du serveur sur la racine du projet (par exemple, pour trade.easy sur /home/arno/dev/trade-easy-app)
 
 + Installation git flow
